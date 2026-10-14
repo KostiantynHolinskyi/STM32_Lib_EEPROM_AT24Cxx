@@ -8,4 +8,4 @@ STM32 Lib EEPROM AT24Cxx AT24C 01 02 04 08 16 32 64 128 256 512
 
 Пример в файле example.txt
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
